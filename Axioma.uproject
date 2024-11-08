@@ -1,18 +1,8 @@
 {
 	"FileVersion": 3,
 	"EngineAssociation": "5.4",
-	"Category": "Samples",
+	"Category": "",
 	"Description": "",
-	"Modules": [
-		{
-			"Name": "MotionMatchingReplicated",
-			"Type": "Runtime",
-			"LoadingPhase": "Default",
-			"AdditionalDependencies": [
-				"Engine"
-			]
-		}
-	],
 	"Plugins": [
 		{
 			"Name": "ModelingToolsEditorMode",
@@ -22,37 +12,12 @@
 			]
 		},
 		{
-			"Name": "AnimationWarping",
+			"Name": "Landmass",
 			"Enabled": true
 		},
 		{
-			"Name": "PoseSearch",
-			"Enabled": true
-		},
-		{
-			"Name": "AnimationLocomotionLibrary",
-			"Enabled": true
-		},
-		{
-			"Name": "MotionWarping",
-			"Enabled": true
-		},
-		{
-			"Name": "HairStrands",
-			"Enabled": true
-		},
-		{
-			"Name": "Chooser",
-			"Enabled": true
-		},
-		{
-			"Name": "RigLogic",
-			"Enabled": true
-		},
-		{
-			"Name": "LiveLink",
+			"Name": "Water",
 			"Enabled": true
 		}
-	],
-	"EpicSampleNameHash": "1673045636"
+	]
 }
